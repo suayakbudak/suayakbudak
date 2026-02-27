@@ -1,13 +1,3 @@
-  
-  ### Hello! Suay here.        
-
-**Had experience with:**
-
-  
-
-  
-<a href="https://www.linkedin.com/in/suay-akbudak-6b3b28183"><img height="50" src="https://user-images.githubusercontent.com/96923125/219902741-3b8dee68-6f19-4201-89e4-e5a820d2eb1f.png"/>
-  
 <h1 align="center">Hi 👋, I'm Suay</h1>
 <h3 align="center">A passionate cybersecurity analyst & frontend developer from Türkiye</h3>
 
