@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suayakbudak&label=Profile%20views&color=0e75b6&style=flat" alt="suayakbudak" /> </p>
 
-- I’m currently working on **sarcastic-readme**
+- I’m currently working on **Readme Generator**
 
-- I’m currently learning **Ruby, Python**
+- I’m currently learning **Ruby and Python**
 
 - How to reach me **suayakbudak@gmail.com**
 
