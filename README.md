@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Suay</h1>
-<h3 align="center">A passionate cybersecurity analyst & frontend developer from Türkiye</h3>
+<h1 align="left">Hi 👋, I'm Suay</h1>
+<h3 align="left">A passionate cybersecurity analyst & frontend developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suayakbudak&label=Profile%20views&color=0e75b6&style=flat" alt="suayakbudak" /> </p>
 
