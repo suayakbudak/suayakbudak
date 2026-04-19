@@ -63,7 +63,3 @@
 <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" height="40"/>
 
 </p>
-
-
-  
-
