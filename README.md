@@ -12,21 +12,23 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/suay-akbudak-6b3b28183" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+
+<a href="https://linkedin.com/in/suay-akbudak-6b3b28183" target="_blank" style="display:inline-block; margin-right:10px;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
 </a>
 
-<a href="https://instagram.com/suaycodes" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<a href="https://instagram.com/suaycodes" target="_blank" style="display:inline-block; margin-right:10px;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
 </a>
 
-<a href="https://dribbble.com/suayakbudak" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30" width="40" />
+<a href="https://dribbble.com/suayakbudak" target="_blank" style="display:inline-block; margin-right:10px;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30"/>
 </a>
 
-<a href="https://www.behance.net/suayakbudak" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40" />
+<a href="https://www.behance.net/suayakbudak" target="_blank" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30"/>
 </a>
+
 </p>
 
 ---
